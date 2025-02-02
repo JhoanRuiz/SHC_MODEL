@@ -16,5 +16,12 @@
       "object": "SPFLI",
       "schema": "SFLIGHT"
     }
+  },
+  "com.sap::SCUSTOM": {
+    "target": {
+      "object": "SCUSTOM",
+      "schema": "SFLIGHT"
+    }
   }
+  
 }
