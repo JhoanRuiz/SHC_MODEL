@@ -22,6 +22,11 @@
       "object": "SCUSTOM",
       "schema": "SFLIGHT"
     }
+  },
+  "com.sap::SAIRPORT": {
+    "target": {
+      "object": "SAIRPORT",
+      "schema": "SFLIGHT"
+    }
   }
-  
 }
